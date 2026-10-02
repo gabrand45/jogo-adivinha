@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul_escuro">#1E3A5F</color>
+    <color name="verde">#1F7A6B</color>
+    <color name="dourado">#D9992B</color>
+    <color name="creme">#FBEFD9</color>
+    <color name="cinza_texto">#555555</color>
+</resources>

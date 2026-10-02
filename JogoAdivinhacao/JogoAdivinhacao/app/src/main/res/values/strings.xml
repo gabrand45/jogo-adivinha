@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Jogo de Adivinhação</string>
+
+    <!-- MainActivity -->
+    <string name="label_nome">Nome do jogador</string>
+    <string name="hint_nome">Ex.: Ana</string>
+    <string name="label_maximo">Adivinhar de 1 até:</string>
+    <string name="btn_jogar">JOGAR</string>
+    <string name="erro_nome">Digite o nome do jogador</string>
+
+    <!-- JogoActivity -->
+    <string name="hint_palpite">Seu palpite</string>
+    <string name="btn_chutar">CHUTAR</string>
+    <string name="btn_jogar_de_novo">JOGAR DE NOVO</string>
+    <string name="tentativas">Tentativas: %1$d</string>
+    <string name="boas_vindas">%1$s, pensei num número de 1 a %2$d!</string>
+    <string name="erro_palpite">Digite um número entre 1 e %1$d</string>
+    <string name="dica_quente_maior">Quente! O número é MAIOR.</string>
+    <string name="dica_quente_menor">Quente! O número é MENOR.</string>
+    <string name="dica_frio_maior">Frio! O número é MAIOR.</string>
+    <string name="dica_frio_menor">Frio! O número é MENOR.</string>
+    <string name="acertou">%1$s acertou em %2$d tentativas!</string>
+    <string name="acertou_uma">%1$s acertou em 1 tentativa!</string>
+</resources>
